@@ -11,8 +11,8 @@ Uma Single Page Application(SPA) feita em JavaScript Vanilla, com o objetivo de 
 - Layout responsivo: Funciona em diferentes dispositivos (desktop, tablet e celular);
 
 ## 🚀Como executar:
-Clone os arquivos executando um git clone https://github.com/ourique787/DAOC-store;
-Abra o projeto com o VSCODE e execute através da extensão Live Server;
+- Clone os arquivos executando um git clone https://github.com/ourique787/DAOC-store;
+- Abra o projeto com o VSCODE e execute através da extensão Live Server;
 
 ## 🛠️Tecnologias utilizadas:
 HTML5, CSS3 (com grid/flexbox para responsividade), JavaScript (com Fetch API pra consumo da API e LocalStorage para persistir os dados)
